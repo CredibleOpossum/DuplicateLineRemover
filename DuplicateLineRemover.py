@@ -4,7 +4,7 @@ import platform
 
 unique_counter = 0
 duplicate_counter = 0
-lineend_counter = 0
+lineEnd_counter = 0
 operating_system = platform.system()
 lines_seen = set()  # Holds lines already seen
 
